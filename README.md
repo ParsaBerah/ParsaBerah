@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a **Computer Engineering student** passionate 
 ---
 
 ### 💡 **Skills**
-- Programming:  `HTML`, `CSS`, `C`, `c++`
-- Learning: **JavaScript**, **Git/GitHub**
+- Programming:  `HTML`, `CSS`, `C`, `C++`
+- Learning: **JavaScript**
 
 ---
 
@@ -22,11 +22,5 @@ Welcome to my GitHub profile! I'm a **Computer Engineering student** passionate 
 ---
 
 ### 🌐 **Connect with Me**
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Telegram] (https://t.me/parsaberah)
 
----
-
-### ⚡ **Fun Facts**
-- 🎯 Martial artist at heart, coder by passion.
-- 📖 Favorite book: [The blind owel].
+- [Telegram] (https://t.me/Parsa1234512345)
