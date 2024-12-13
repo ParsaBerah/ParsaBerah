@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a **Computer Engineering student** passionate 
 
 ### 🚀 **About Me**
 - 🌱 Currently learning **C Programming** and **Front-End Development**.
-- 💻 Working on [project name or skill, e.g., mastering strings in C].
+- 💻 Working on .
 - 🔍 Exploring opportunities in software development and web development.
 
 ---
