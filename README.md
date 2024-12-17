@@ -44,4 +44,4 @@ Check out some of my recent and exciting projects:
 
 ### 🌐 **Connect with Me**  
 - [Telegram](https://t.me/Parsa1234512345)  
-- 📧 **Email**: *yourname@example.com*  
+- 📧 **Email**: *parsaberahman18@gmail.com*  
