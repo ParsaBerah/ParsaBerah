@@ -1,6 +1,4 @@
-Here — paste the block below into your `README.md` on GitHub (already tailored for **dark mode**, animations, badges, and your username).
 
-```{"id":"58201","variant":"standard","title":"Dark Themed GitHub README — ParsaBerah"}
 # <center>👋 سلام، من پارسا — ParsaBerah</center>
 
 <p align="center">
