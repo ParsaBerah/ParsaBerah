@@ -1,5 +1,5 @@
 
-# <center>👋  Hi - I'm Parsa — ParsaBerah</center>
+# <center>👋 Parsa Berahman </center>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&duration=3000&pause=1000&color=FFFFFF&width=700&lines=Hi%2C+I%27m+Parsa+%F0%9F%91%8B;Front-End+Developer+%7C+UI%2FUX+Enthusiast;C+Programmer+%7C+Learner" alt="typing"/>
@@ -10,7 +10,7 @@
 ## 🔭 About me
 - 🎓 Computer Engineering student.
 - 🌱 Learning **JavaScript**, **Python**, and improving **Front-End** skills.
-- 💻 Building a **Photography Website** and polishing portfolio projects.
+- 💻 Building a **Personal Website** and polishing portfolio projects.
 - 🎮 Interested in Game Development and Desktop Apps.
 
 ---
