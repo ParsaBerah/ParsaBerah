@@ -52,29 +52,6 @@ Working toward becoming a full-stack developer who can take a product from idea 
 
 ---
 
-### Featured Projects
-
-A selection of projects where design meets development.
-
-> 🚧 Project repositories are being organized and documented.
-
-**01 — Pariya Beauty**
-An e-commerce experience designed with a focus on visual hierarchy, product discovery, and a clean shopping interface.
-
-`UI/UX` · `Figma` · `E-commerce`
-
-**02 — Personal Portfolio**
-A personal website designed to showcase my work, skills, and professional journey.
-
-`UI/UX` · `Frontend` · `Web Design`
-
-**03 — Web & Mobile Experiences**
-Selected website and mobile application concepts exploring different products, user flows, and interface systems.
-
-`UI/UX` · `Figma` · `Product Design`
-
----
-
 ### Currently Learning
 
 * PHP & MySQL
